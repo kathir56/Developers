@@ -20,7 +20,7 @@ The SwiftUI Cards App is a comprehensive iOS project designed to help users mast
 - Clone the repository to your local machine.
 - Open the project in Xcode.
 - Build and run the project on a compatible iOS device or simulator.
-- Explore the various features and functionalities of the Fructus app.
+- Explore the various features and functionalities of the Developers app.
 # Requirements
 - Xcode 12 or later
 - iOS 14.0+
